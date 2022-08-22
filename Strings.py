@@ -1,0 +1,5 @@
+print('Python is fun')
+print('Always look at the bright side of life')
+print('Hello Worls')
+print('Brian\'s mother: He\'s not an angel. He\'s a very naughty boy!')
+print('I\'m learning')
