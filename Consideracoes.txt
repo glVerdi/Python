@@ -1,0 +1,32 @@
+Variáveis tem q ter um nome explicativo para saber o que tem dentro dela
+Não pode ter espaços, para juntar palavras usa-se _, podendo haver numero dps
+Var_1
+Adicionar um valor para ela coloca-se o =
+O valor pode ser uma string q começa com “ ou ‘ e termina com “  ou ‘ 
+Var_1 = “string” ou ‘string’
+Tem q ter uma ordem nas instruções do programa pq o pc lê linha por linha
+print(“hello world”) o pc vai mostrar na tela hello world através de um console
+Pode-se escrever uma variavel e chamar o nome dela dentro do print print(var_1)
+Pode trocar a variável colocando um = e outro nome, consegue colocar o nome de outra variável 
+Podemos colocar o sinal de + entre strings ou o nome de uma variável q recebeu alguma coisa para juntá-las  
+Operações +, -, /, *, conseguimos colocar entre variáveis
+Podemos armazenar True em uma variável
+Se colocar not na frente de True vai ser falso e vice-versa, pode ser colocado antes de variáveis q são True ou False
+Para comparação usamos == (igual) e resultam em True ou False
+Para ver se um numero n eh igual a outro usamos != (diferente) e retorna True ou False
+Podemos comparar variáveis 
+Para ver se um número eh menor ou igual q outro usamos <= e retornara True ou False
+Para ver se um número eh maior ou igual  q outro usamos >= e retornara True ou False
+Podemos ver se uma variável eh maior ou menor ou igual a outra 
+Podemos comparar strings com == ou != retornando True ou False 
+Strings estão entre aspas
+Int eh un numero inteiro 
+Float eh um numero um ou mais dígitos depois do ponto
+Boolean eh True e False
+Não se pode usar número e somar com uma string, isso irá gerrar um erro, por isso usamos um f e colocamos o número entre chaves, print(f'{6} new messages')
+Quando a variável recebe um número, tambem podemos colocar essa variavel entre as chaves, podemos colocar subtração de variáveis entre chaves
+Podemos guardar essas f-strings em variáveis
+Para escolher entre caminhos diferentes usamos o if, elif (para mais caminhos) e o else para um outro caminho, mas dessa vez irá terminar, 
+para estar dentro do bloco do if, tem que estar identado, usamos comparações para ver se aquela linha irá ser printada ou não, usando : depois de if, elif e else
+Podemos usar vários elif's
+Podemos usar and (para as duas operações serem verdadeiras e printadas) e o ou (para uma das duas serem verdadeiras e printadas)
