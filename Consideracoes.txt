@@ -1,0 +1,36 @@
+Variáveis tem q ter um nome explicativo para saber o que tem dentro dela
+Não pode ter espaços, para juntar palavras usa-se _, podendo haver numero dps
+Var_1
+Adicionar um valor para ela coloca-se o =
+O valor pode ser uma string q começa com “ ou ‘ e termina com “  ou ‘ 
+Var_1 = “string” ou ‘string’
+Tem q ter uma ordem nas instruções do programa pq o pc lê linha por linha
+print(“hello world”) o pc vai mostrar na tela hello world através de um console
+Pode-se escrever uma variavel e chamar o nome dela dentro do print print(var_1)
+Pode trocar a variável colocando um = e outro nome, consegue colocar o nome de outra variável 
+Podemos colocar o sinal de + entre strings ou o nome de uma variável q recebeu alguma coisa para juntá-las  
+Operações +, -, /, *, conseguimos colocar entre variáveis
+Podemos armazenar True em uma variável
+Se colocar not na frente de True vai ser falso e vice-versa, pode ser colocado antes de variáveis q são True ou False
+Para comparação usamos == (igual) e resultam em True ou False
+Para ver se um numero n eh igual a outro usamos != (diferente) e retorna True ou False
+Podemos comparar variáveis 
+Para ver se um número eh menor ou igual q outro usamos <= e retornara True ou False
+Para ver se um número eh maior ou igual  q outro usamos >= e retornara True ou False
+Podemos ver se uma variável eh maior ou menor ou igual a outra 
+Podemos comparar strings com == ou != retornando True ou False 
+Strings estão entre aspas
+Int eh un numero inteiro 
+Float eh um numero um ou mais dígitos depois do ponto
+Boolean eh True e False
+Adicionar duas strings para printar elas juntas usa-se o +
+Adicionar um número com uma string usamos (f'{2} message') ou colocar uma variavel que seja um número dentro de {}, podemos colocar vários {}
+Usa-se if (se), elif (se não se) e else (se não) para tomar decisões e depois de cada um desse colocar : depois das variaveis, mas para o else os dois pontos vem logo em seguida, podemos
+usar and para ver se as duas ou mais condições são verdadeiras e usamos o or para ver se pelo menos uma das condições forem verdadeiras 
+Podemos usar as comparações (==, >=, <=, >, >, !=) para testar se esta correto ou não
+Elif serve para testar várias condições e não somente uma
+Conseguimos dar o mesmo valor para uma variavel igual ex: wallet = 3, wallet = wallet e com isso podemos incrmentá-la e também decrementá-la, funciona com 
+strings e colocamos wallet += 1 ou wallet -= 1
+Usamos while para repetir linhas de código, depois das condições colocamos :, comparações são tambèm usadas, para controlar esses whiles começamos com um 
+contador e no while colocamos uma condição de parada e somamos ou decrementamos antes ou depois do print ex: cont = 1, while count < 10:, print(count), count += 1
+É mais fácil escrever for loops do que while loops, porem nos loops nos sabemos quantas vezes queremos rodar ex: for i in range(5):
